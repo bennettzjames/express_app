@@ -8,8 +8,11 @@ Spend 5 minutes and answer the following questions.
 Quiz your neighbor on them!
 
 - What is a headless browser?
+	-similar to other browsers. just doesn't have a gui. 
 - What is Selenium?
+	-a test tool that automates web apps 
 - What is yml?
+	-a syntax that maps out common code languages. 
 - What is end to end testing?
 - What is continuous integration?
 - What should it expect to happen if the lotion isn't in the basket?
